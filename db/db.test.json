@@ -1,0 +1,514 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "name": "Тест на стресову стійкість",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Чи ви відчуваєте постійний стрес у зоні конфлікту чи воєнних дій?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Так, постійно",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Ні, рідко",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "Як ви відноситесь до військових дій, у яких ви приймаєте участь?",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Ставлюся зі страхом",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Можу терпіти",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Ставлюся з ентузіазмом",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 3
+        },
+        {
+          "id": 3,
+          "question": "Чи відчуваєте втому чи безсилля під час служби?",
+          "answers": [
+            {
+              "questionId": 3,
+              "text": "Так, постійно",
+              "number": 1
+            },
+            {
+              "questionId": 3,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 3,
+              "text": "Ні, рідко",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 3
+        },
+        {
+          "question": "some ",
+          "answers": [
+            {
+              "text": "some",
+              "number": 1
+            },
+            {
+              "text": "some2",
+              "number": 2
+            },
+            {
+              "text": "some3",
+              "number": 3
+            }
+          ],
+          "image": "17.png",
+          "correctAnswer": 2
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "id": 2,
+      "name": "Тест на емоційну стабільність",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Як ви реагуєте на стресові ситуації?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Погано контролюю свої емоції",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Частково контролюю",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Легко заспокоююся",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 3
+        },
+        {
+          "id": 2,
+          "question": "Як часто ви відчуваєте тривогу у воєнному середовищі?",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Постійно",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Час від часу",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Рідко",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 2
+        },
+        {
+          "id": 3,
+          "question": "Чи зверталися ви за допомогою до психолога чи психіатра у зоні конфлікту?",
+          "answers": [
+            {
+              "questionId": 3,
+              "text": "Так, регулярно",
+              "number": 1
+            },
+            {
+              "questionId": 3,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 3,
+              "text": "Ні, ніколи",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 2
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "id": 3,
+      "name": "Тест на емоційну стійкість",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Як ви реагуєте на стресові ситуації в зоні військових дій?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Маю високу емоційну стійкість",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Деякі ситуації мене турбують",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Важко контролювати емоції",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "Чи відчуваєте втому та безсилля під час військової діяльності?",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Так, постійно",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Ні, рідко",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 2
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "id": 4,
+      "name": "Тест на стратегії подолання стресу",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Як ви зазвичай вирішуєте стресові ситуації?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Шукаю підтримку у товаришів по службі",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Використовую особисті стратегії (медитація, спорт тощо)",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Не знаю, як подолати стрес",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 3
+        },
+        {
+          "id": 2,
+          "question": "Чи використовуєте ви які-небудь методики для зменшення стресу в повсякденному житті?jk",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Так, регулярно",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Ні, ніколи",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 1
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "id": 5,
+      "name": "Тест на посттравматичний стрес",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Чи виникали у вас посттравматичні симптоми (переживання, сни, страхи) після стресових ситуацій у зоні конфлікту?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Так, дуже часто",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Ні, майже ніколи",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 2
+        },
+        {
+          "id": 2,
+          "question": "Чи відчуваєте ви втому та роздратованість внаслідок воєнних дій?",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Так, постійно",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Ні, рідко",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 1
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "id": 6,
+      "name": "Тест на стійкість та підтримку",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Чи оточені вас близькі люди підтримують у вашій службі?",
+          "answers": [
+            {
+              "questionId": 1,
+              "text": "Так, завжди",
+              "number": 1
+            },
+            {
+              "questionId": 1,
+              "text": "Час від часу",
+              "number": 2
+            },
+            {
+              "questionId": 1,
+              "text": "Ні, не підтримують",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "Чи здатні ви шукати підтримку та професійну допомогу у складних ситуаціях?",
+          "answers": [
+            {
+              "questionId": 2,
+              "text": "Так, завжди",
+              "number": 1
+            },
+            {
+              "questionId": 2,
+              "text": "Іноді",
+              "number": 2
+            },
+            {
+              "questionId": 2,
+              "text": "Ні, ніколи",
+              "number": 3
+            }
+          ],
+          "image": "1.png",
+          "correctAnswer": 2
+        }
+      ],
+      "image": "1.png"
+    },
+    {
+      "name": "My new test",
+      "questions": [
+        {
+          "id": 1,
+          "question": "some",
+          "answers": [
+            {
+              "text": "q",
+              "questionId": 1,
+              "number": 1
+            },
+            {
+              "text": "w",
+              "questionId": 1,
+              "number": 2
+            },
+            {
+              "text": "e",
+              "questionId": 1,
+              "number": 3
+            }
+          ],
+          "image": "23.png",
+          "correctAnswer": 1
+        },
+        {
+          "id": 2,
+          "question": "some 2",
+          "answers": [
+            {
+              "text": "1",
+              "questionId": 2,
+              "number": 1
+            },
+            {
+              "text": "2",
+              "questionId": 2,
+              "number": 2
+            },
+            {
+              "text": "3",
+              "questionId": 2,
+              "number": 3
+            }
+          ],
+          "image": "8.png",
+          "correctAnswer": 2
+        },
+        {
+          "id": 3,
+          "question": "some 3",
+          "answers": [
+            {
+              "text": "4",
+              "questionId": 3,
+              "number": 1
+            },
+            {
+              "text": "5",
+              "questionId": 3,
+              "number": 2
+            },
+            {
+              "text": "6",
+              "questionId": 3,
+              "number": 3
+            }
+          ],
+          "image": "14.png",
+          "correctAnswer": 3
+        }
+      ],
+      "id": 7,
+      "image": "1.png"
+    },
+    {
+      "name": "qwertyjkl",
+      "image": "6.png",
+      "questions": [
+        {
+          "id": 1,
+          "question": "qasedrtfcvghbjk123456",
+          "answers": [
+            {
+              "text": "asdasda",
+              "questionId": 1,
+              "number": 1
+            },
+            {
+              "text": "asdasdasd",
+              "questionId": 1,
+              "number": 2
+            },
+            {
+              "text": "asdzsdxd",
+              "questionId": 1,
+              "number": 3
+            },
+            {
+              "text": "zxdczxczxc",
+              "questionId": 1,
+              "number": 4
+            },
+            {
+              "text": "xcxfcxdf",
+              "questionId": 1,
+              "number": 5
+            }
+          ],
+          "image": "10.png",
+          "correctAnswer": 4
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "results": [
+    {
+      "rank": "2",
+      "name": "Павло",
+      "surname": "Дикий",
+      "testId": 1,
+      "countUnCorrect": 4,
+      "countCorrect": 0,
+      "id": 5
+    }
+  ]
+}
